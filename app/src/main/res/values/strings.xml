@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NovaViagem</string>
+    <string name="application_name">Nova Viagem</string>
+    <string name="destination">Destino</string>
+    <string name="tripType">Tipo</string>
+    <string name="leisure">Lazer</string>
+    <string name="business">Negócios</string>
+    <string name="startDate">Data Inicial</string>
+    <string name="endDate">Data Fim</string>
+    <string name="tripValue">Orçamento</string>
+</resources>
